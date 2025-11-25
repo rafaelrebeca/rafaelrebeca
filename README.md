@@ -1,9 +1,5 @@
 # Hi there, I'm Rafael Rebeca 👋
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/6031676?v=4" width="200" style="border-radius: 50%;" />
-</div>
-
 ## 🚀 About Me
 
 Full-stack developer based in **Portugal** with a passion for building modern web applications and cloud-native solutions. I specialize in creating scalable, efficient applications using cutting-edge technologies and cloud infrastructure.
@@ -29,8 +25,8 @@ Full-stack developer based in **Portugal** with a passion for building modern we
 
 ## 🛠️ Featured Projects
 
-### 🎮 [AXA Game Club (AGC)](https://github.com/rafaelrebeca/agc)
-A comprehensive gaming leaderboard and tracking system for the AXA Game Club, featuring:
+### 🎮 [Game Club (AGC)](https://github.com/rafaelrebeca/agc)
+A comprehensive gaming leaderboard and tracking system for the Game Club, featuring:
 - **Real-time game results tracking** from external sources
 - **Player statistics and rankings**
 - **Interactive data visualizations**

@@ -67,16 +67,6 @@ Collection of Oracle database administration utilities and scripts for DBAs and 
 
 **Tech:** SQL, PL/SQL, Oracle Database
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelrebeca&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrebeca&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
-
 ## 🎯 Current Focus
 
 - 🔭 Building full-stack applications with **Cloudflare Workers** and **Supabase**

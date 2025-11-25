@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Full-stack developer based in **Venda do Pinheiro, Lisboa, Portugal** with a passion for building modern web applications and cloud-native solutions. I specialize in creating scalable, efficient applications using cutting-edge technologies and cloud infrastructure.
+Full-stack developer based in **Portugal** with a passion for building modern web applications and cloud-native solutions. I specialize in creating scalable, efficient applications using cutting-edge technologies and cloud infrastructure.
 
 ## 💻 Tech Stack
 
